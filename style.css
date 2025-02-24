@@ -22,7 +22,7 @@ div{
     margin: 5px;
     align-items: center;
     align-content: center;
-    order: 0;
+    order: -1;
     font-size: 40px;
 }
 .intro {
