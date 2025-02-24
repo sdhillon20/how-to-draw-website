@@ -10,7 +10,7 @@ div{
 .navagation {
    grid-column: 1/4;
    grid-row: 1/2;
-   background-color:  rgb(94, 164, 221);
+   background-color:  rgb(248, 159, 174);
    margin: 5px;
    align-content: space-evenly;
 }
@@ -53,14 +53,14 @@ div{
 
 .navbar ul{
     list-style-type: none;
-    background-color:  rgb(94, 164, 221);
+    background-color:   rgb(248, 159, 174);
     padding: 0px;
     margin: 0px;
     overflow: hidden;
     
 }
 .navbar a{
-     color: rgb(27, 27, 151);
+     color: rgb(238, 75, 102);
      text-decoration: none;
      padding: 15px;
      display: block;
@@ -68,7 +68,7 @@ div{
 
 }
 .navbar a:hover{
-    background-color:  rgb(18, 119, 202);
+    background-color:  hotpink;
     
 }
 .navbar li{
