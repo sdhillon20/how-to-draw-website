@@ -50,5 +50,31 @@ div{
     margin: 5px;
 }
 
+.navbar ul{
+    list-style-type: none;
+    background-color:  rgb(94, 164, 221);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    
+}
+.navbar a{
+     color: rgb(27, 27, 151);
+     text-decoration: none;
+     padding: 15px;
+     display: block;
+     text-align: center;
+
+}
+.navbar a:hover{
+    background-color:  rgb(18, 119, 202);
+    
+}
+.navbar li{
+     float: left;
+
+}
+
+
 
 
