@@ -21,6 +21,7 @@ div{
     background-color: rgb(252, 78, 136);
     margin: 5px;
     align-content: center;
+    justify-content: center;
     font-size: 40px;
 }
 .intro {
