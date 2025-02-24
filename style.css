@@ -20,8 +20,8 @@ div{
     grid-row: 2/3;
     background-color: rgb(252, 78, 136);
     margin: 5px;
-    align-content: center;
     justify-content: center;
+    align-items: center;
     font-size: 40px;
 }
 .intro {
