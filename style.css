@@ -1,5 +1,5 @@
 div{
-    border: 20px solid palevioletred;
+    border: 20px solid pink;
  }
 
 .container{
@@ -46,7 +46,7 @@ div{
 .footer {
     grid-column: 1/4;
     grid-row: 5/6;
-    background-color: pink;
+    background-color: paleturquoise;
     margin: 5px;
 }
 
