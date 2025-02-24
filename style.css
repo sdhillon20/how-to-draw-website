@@ -13,7 +13,7 @@ div{
    background-color:  rgb(241, 105, 173);
    margin: 5px;
    align-content: space-evenly;
-   align-self: center;
+   
 }
 .header {
     grid-column: 1/4;
@@ -69,7 +69,7 @@ div{
 
 }
 .navbar a:hover{
-    background-color:  rgb(241, 188, 197)
+    background-color:  rgb(243, 122, 182))
     
 }
 .navbar li{
