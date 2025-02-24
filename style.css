@@ -20,6 +20,8 @@ div{
     grid-row: 2/3;
     background-color: rgb(252, 78, 136);
     margin: 5px;
+    justify-content: center;
+    font-size: 30px;
 }
 .intro {
     grid-column: 1/4;
