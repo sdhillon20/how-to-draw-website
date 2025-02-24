@@ -46,7 +46,7 @@ div{
 .footer {
     grid-column: 1/4;
     grid-row: 5/6;
-    background-color: blue;
+    background-color: pink;
     margin: 5px;
 }
 
