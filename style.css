@@ -10,7 +10,7 @@ div{
 .navagation {
    grid-column: 1/4;
    grid-row: 1/2;
-   background-color:   rgb(94, 164, 221);
+   background-color:  rgb(94, 164, 221);
    margin: 5px;
    align-content: space-evenly;
 }
