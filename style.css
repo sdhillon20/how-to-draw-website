@@ -52,6 +52,8 @@ div{
     grid-row: 5/6;
     background-color: paleturquoise;
     margin: 5px;
+    text-align: center;
+
 }
 
 .navbar ul{
